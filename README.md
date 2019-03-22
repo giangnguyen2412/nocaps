@@ -1,6 +1,7 @@
 # nocaps
 # nocaps: novel object captioning at scale
 
+## About the first week of April 2019, the dataset will be released
 ## Introduction
 
 ‘nocaps’, for novel object captioning at scale,
@@ -46,3 +47,4 @@ automatic evaluation plus a human baseline).
 Authors report automatic evaluation metrics for the entire dataset, as well as
 *in-domain*, **near-domain** and ***out-of-domain subsets*** of images containing *only COCO* classes, **both COCO and Open
 Images** classes, and only ***Open Images*** classes, respectively.
+
