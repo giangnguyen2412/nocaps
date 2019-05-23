@@ -1,7 +1,7 @@
 # nocaps
 # nocaps: novel object captioning at scale
 
-## About the first week of April 2019, the dataset will be released
+## The dataset has been released [here](https://nocaps.org/)
 ## Introduction
 
 ‘nocaps’, for novel object captioning at scale,
